@@ -52,7 +52,8 @@
 ### 🧩 Frameworks/Libraries
 
 [![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://kylem.digital)
-[![vue](https://img.shields.io/badge/Vue-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://kylem.digital)
+[![vue](https://img.shields.io/badge/Vue-20232A?style=for-the-badge&logo=Vue.js&logoColor=22DAFB)](https://kylem.digital)
+[![vuetify](https://img.shields.io/badge/Vuetify-20232A?style=for-the-badge&logo=Vuetify&logoColor=1867C0)](https://kylem.digital)
 [![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://kylem.digital)
 [![expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://kylem.digital)
 [![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://kylem.digital)
