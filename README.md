@@ -15,7 +15,7 @@
   
 - 🌱 I’m currently **freelancing**
 
-- 👨‍💻 All of my projects are available [here](https://kylem.digital/#portfolio)
+- 👨‍💻 Some of my projects are available [here](https://kylem.digital/#portfolio)
 
 - 💬 Ask me about **Web Development**
 
