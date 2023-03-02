@@ -15,8 +15,6 @@
   
 - 🌱 I’m currently **freelancing**
 
-- 👨‍💻 Some of my projects are available [here](https://kylem.digital/#portfolio)
-
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **upworkvancouver@gmail.com**
