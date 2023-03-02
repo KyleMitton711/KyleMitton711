@@ -21,11 +21,6 @@
 
 - 📫 How to reach me **upworkvancouver@gmail.com**
 
-### 🤝 Connect with me:
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://kylem.digital/)
-
-
 ### 📊 Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=KyleMitton711&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="Kyle's github stats" width="48%" align="right" >
